@@ -7185,8 +7185,8 @@ dealloc(biwspmnd)
           <Color>0000FF</Color>
           <VariableType>Auto Assembler Script</VariableType>
           <AssemblerScript>{ Game   : REResistance.exe
-  Version: 4.47
-  Date   : 2026-11-05
+  Version: 4.48
+  Date   : 2026-11-16
   Author : TBJ
 }
 
@@ -7281,7 +7281,7 @@ blaz3r:
 db 0
 
 chlt1:
-db 01 50 28 69 7C 4F 7D B6 67 53 12 0F 24 83 65 EF 43 F5 48 DC 28 01 1C F3 28 EF 97 4E 79 E0 3E 06 7E E7 34 D0 39 9C C2 5A 7B BC 75 54 77 2B A6 75 7A 1D 79 29 29 79 13 44 35 11 84 C9 73 87 BD 01 40 00 C0 1E 65 B2 69 E1 76 B1 ED 3F 43 A1 7A 21 76 4C 1D C0 48 E8 A5 08 64 AE 29 DF 7D 12 A3 E6 7C 2B 82 07 77 B5 B1 54 3C BB AE F4 77 E3 5B 19 3D C4 B1 68 73 31 6E 9C 6E A8 86 54 75 82 AE 15 75 7C 4C E7 3F 67 1D EA 72 AA 0A 5F 7D F3 6B 45 6B F6 D6 11 49 59 C1 6F 75 55 E7 92 76 FC 35 F3 7F 6B 11 B3 3D F8 ED 64 3E 06 F1 CA 7B 3D E0 E5 3F 7E B7 C8 4B 6F 01 E4 71 D9 3E 6F 3B 1B 65 9F 6F AC 28 52 7A 96 5D C5 7A EA FE 98 77 FC B9 37 7B B9 2C 8C 42 AF CF 55 78 C9 B0 13 71 25 0A 2F 3D 4F 90 FE 69 A6 1F 5C 7A F4 81 07 6D B4 55 34 37 38 3D 52 7F 9B 7E 57 71 D8 DA BE 22 85 B8 ED 31 B1 12 35 27 EF DF 77 76 BA FC 31 49 3A F4 12 6D 51 F1 C9 0D 50 E9 87 43 DA A0 0A 26 0E C4 73 4A A3 77 97 6A 08 90 4F 7E E0 ED E8 4F E1 38 C9 48 4E 3E 8E 48 F2 A7 F5 65 2B 8B E2 36 61 44 59 74 05 76 79 36 CA A1 6E 27 C4 BF 49 72 54 13 C0 39 DD 9A CF 67 F5 3C 75 79 27 59 D2 76 D8 5C 6D 36 0C C9 8F 36 5C 3E 74 75 99 D3 E4 7B 77 A0 A2 43 CB 1A D9 7C FE 81 CD 39 89 B2 CD 79 80 A0 73 1D 6A B8 69 7F 82 AA 95 22 85 3B DE 13 50 6C D4 76 8B F9 92 19 7D 72 7B 6A E0 8A 45 6C 07 72 FF 7D 1A 11 51 71 19 06 BB 7F F4 0D 36 12 BB C7 2D 27 7F A4 65 12 36 AA 8C 35 EE 13 26 17 DE C8 4F 65 0E 50 35 7C CD 52 E3 3D 7A 92 AA 3C 33 FA C4 49 A2 8F 92 4B 48 F2 1F 6B 6A 51 03 3D AD 2E 29 76 43 16 2F 6A B4 55 34 37 B9 A8 3B 34 E8 DA 61 37 A5 3F 49 14 0C E5 59 48 53 42 99 4A 83 4F AF 4A C6 C6 DE 78 CB B1 BC 26 67 5F 62 76 EC A4 D7 65 F4 3B 27 74 0E 10 D2 7B 2C 1D F7 78 21 40 FE 12 1D E9 F2 7A AA 34 A4 4F 75 B3 12 3C 07 22 2F 0F 19 8E 46 7B A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D
+db 01 50 28 69 7C 4F 7D B6 67 53 12 0F 24 83 65 EF 43 F5 48 DC 28 01 1C F3 28 EF 97 4E 79 E0 3E 06 7E E7 34 D0 39 9C C2 5A 7B BC 75 54 77 2B A6 75 7A 1D 79 29 29 79 13 44 35 11 84 C9 73 87 BD 01 40 00 C0 1E 65 B2 69 E1 76 B1 ED 3F 43 A1 7A 21 76 4C 1D C0 48 E8 A5 08 64 AE 29 DF 7D 12 A3 E6 7C 2B 82 07 77 B5 B1 54 3C BB AE F4 77 E3 5B 19 3D C4 B1 68 73 31 6E 9C 6E A8 86 54 75 82 AE 15 75 7C 4C E7 3F 67 1D EA 72 AA 0A 5F 7D F3 6B 45 6B F6 D6 11 49 59 C1 6F 75 55 E7 92 76 FC 35 F3 7F 6B 11 B3 3D F8 ED 64 3E 06 F1 CA 7B 3D E0 E5 3F 7E B7 C8 4B 6F 01 E4 71 D9 3E 6F 3B 1B 65 9F 6F AC 28 52 7A 96 5D C5 7A EA FE 98 77 FC B9 37 7B B9 2C 8C 42 AF CF 55 78 C9 B0 13 71 25 0A 2F 3D 4F 90 FE 69 A6 1F 5C 7A F4 81 07 6D B4 55 34 37 38 3D 52 7F 9B 7E 57 71 D8 DA BE 22 85 B8 ED 31 B1 12 35 27 EF DF 77 76 BA FC 31 49 3A F4 12 6D 51 F1 C9 0D 50 E9 87 43 DA A0 0A 26 0E C4 73 4A A3 77 97 6A 08 90 4F 7E E0 ED E8 4F E1 38 C9 48 4E 3E 8E 48 F2 A7 F5 65 2B 8B E2 36 61 44 59 74 05 76 79 36 CA A1 6E 27 C4 BF 49 72 54 13 C0 39 DD 9A CF 67 F5 3C 75 79 27 59 D2 76 D8 5C 6D 36 0C C9 8F 36 5C 3E 74 75 99 D3 E4 7B 77 A0 A2 43 CB 1A D9 7C FE 81 CD 39 89 B2 CD 79 80 A0 73 1D 6A B8 69 7F 82 AA 95 22 85 3B DE 13 50 6C D4 76 8B F9 92 19 7D 72 7B 6A E0 8A 45 6C 07 72 FF 7D 1A 11 51 71 19 06 BB 7F F4 0D 36 12 BB C7 2D 27 7F A4 65 12 36 AA 8C 35 EE 13 26 17 DE C8 4F 65 0E 50 35 7C CD 52 E3 3D 7A 92 AA 3C 33 FA C4 49 A2 8F 92 4B 48 F2 1F 6B 6A 51 03 3D AD 2E 29 76 43 16 2F 6A B4 55 34 37 B9 A8 3B 34 E8 DA 61 37 A5 3F 49 14 0C E5 59 48 53 42 99 4A 83 4F AF 4A C6 C6 DE 78 CB B1 BC 26 67 5F 62 76 EC A4 D7 65 F4 3B 27 74 0E 10 D2 7B 2C 1D F7 78 21 40 FE 12 1D E9 F2 7A AA 34 A4 4F 75 B3 12 3C 07 22 2F 0F 19 8E 46 7B 0C 66 B0 12 A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D
 
 prlt1:
 db 00 6C A5 63 49 50 33 FC 43 F6 8D 47 35 20 FE D9 7E 27 B2 D7 7B A4 02 7C 68 CE 7D B7 6B 30 61 99 7D 5A 67 BC 6A 2F FA C4 74 DB 90 4B 6C 7A 14 5A 6C E0 64 95 48 56 E3 9E 68 FB 73 B6 3A 07 72 FF 7D C8 9A BA 7B 67 68 28 67 C0 43 CF 75 DD E4 C2 7D 21 94 9C 49 4C D5 2F 3F 07 97 D5 71 16 41 F1 4B 80 65 26 6F AB B3 06 12 02 BD E6 7F 0C C3 CA 52 9C 2D A6 7E A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D A8 3F C5 7D
@@ -8965,7 +8965,7 @@ dealloc(dgpr)
                   <ID>1337122683</ID>
                   <Description>"Section 1"</Description>
                   <Options moHideChildren="1"/>
-                  <LastState Value="" RealAddress="00000000"/>
+                  <LastState Value="" Activated="1" RealAddress="00000000"/>
                   <Color>810FFF</Color>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
@@ -9117,6 +9117,7 @@ E37BDF38: Cheater 137
 90CD58E7: Cheater 138
 A3F0C995: Cheater 139
 D799658B: Cheater 140
+BE6F8D9E: Cheater 141
 E44A8F72: Problematic 1
 D81B11BD: Problematic 2
 C6638CC8: Problematic 3
@@ -9168,7 +9169,7 @@ D279C60E: Problematic 29
                   <ID>1337122686</ID>
                   <Description>"Section 2"</Description>
                   <Options moHideChildren="1"/>
-                  <LastState Value="" RealAddress="00000000"/>
+                  <LastState Value="" Activated="1" RealAddress="00000000"/>
                   <Color>77B3DB</Color>
                   <GroupHeader>1</GroupHeader>
                   <CheatEntries>
@@ -9320,6 +9321,7 @@ E37BDF38: Cheater 137
 90CD58E7: Cheater 138
 A3F0C995: Cheater 139
 D799658B: Cheater 140
+BE6F8D9E: Cheater 141
 E44A8F72: Problematic 1
 D81B11BD: Problematic 2
 C6638CC8: Problematic 3
@@ -9411,7 +9413,7 @@ D279C60E: Problematic 29
               <ID>1337123948</ID>
               <Description>"Survivor Section"</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
+              <LastState Value="" Activated="1" RealAddress="00000000"/>
               <Color>CFE12F</Color>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
@@ -9458,7 +9460,7 @@ D279C60E: Problematic 29
                       <ID>1337123953</ID>
                       <Description>"Section 1 - Blocked Players"</Description>
                       <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
+                      <LastState Value="" Activated="1" RealAddress="00000000"/>
                       <Color>7A80E7</Color>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
@@ -9610,6 +9612,7 @@ E37BDF38: Cheater 137
 90CD58E7: Cheater 138
 A3F0C995: Cheater 139
 D799658B: Cheater 140
+BE6F8D9E: Cheater 141
 E44A8F72: Problematic 1
 D81B11BD: Problematic 2
 C6638CC8: Problematic 3
@@ -9661,7 +9664,7 @@ D279C60E: Problematic 29
                       <ID>1337123956</ID>
                       <Description>"Section 2 - Ghost Lobbies"</Description>
                       <Options moHideChildren="1"/>
-                      <LastState Value="" RealAddress="00000000"/>
+                      <LastState Value="" Activated="1" RealAddress="00000000"/>
                       <Color>F3BDA0</Color>
                       <GroupHeader>1</GroupHeader>
                       <CheatEntries>
@@ -9813,6 +9816,7 @@ E37BDF38: Cheater 137
 90CD58E7: Cheater 138
 A3F0C995: Cheater 139
 D799658B: Cheater 140
+BE6F8D9E: Cheater 141
 E44A8F72: Problematic 1
 D81B11BD: Problematic 2
 C6638CC8: Problematic 3
@@ -10027,7 +10031,7 @@ D279C60E: Problematic 29
               <ID>1337122689</ID>
               <Description>"Shared Section"</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
+              <LastState Value="" Activated="1" RealAddress="00000000"/>
               <Color>ED27DE</Color>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
@@ -10191,6 +10195,7 @@ E37BDF38: Cheater 137
 90CD58E7: Cheater 138
 A3F0C995: Cheater 139
 D799658B: Cheater 140
+BE6F8D9E: Cheater 141
 E44A8F72: Problematic 1
 D81B11BD: Problematic 2
 C6638CC8: Problematic 3
